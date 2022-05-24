@@ -6,14 +6,7 @@
 
 
 ## Built With
-
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
+- HTML & CSS
 
 
 ## Getting Started
@@ -27,15 +20,13 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 ### Setup
+ - open a terminal
+ - run git clone https://github.com/Leboroz/Hello-Microverse.git
+ - run npm install
 
-### Install
 
 ### Usage
-
-### Run tests
-
-### Deployment
-
+ - open index.html in your browser
 
 
 ## Authors
@@ -55,12 +46,6 @@ Feel free to check the [issues page](../../issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
