@@ -21,7 +21,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Setup
  - open a terminal
- - run git clone https://github.com/Leboroz/Hello-Microverse.git
+ - run git clone https://github.com/kingsleyocran/hello-microverse.git
  - run npm install
 
 
